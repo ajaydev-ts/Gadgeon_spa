@@ -19,6 +19,13 @@
       "password": "malu1234",
       "repeatpassword": "malu1234",
       "id": 11
+    },
+    {
+      "name": "Ajay",
+      "email": "ajaydevts365@gmail.com",
+      "password": "ajaydev",
+      "repeatpassword": "ajaydev",
+      "id": 12
     }
   ]
 }
